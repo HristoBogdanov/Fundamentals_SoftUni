@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\bin\Debug\netcoreapp3.1\Array Rotatio.exe
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\bin\Debug\netcoreapp3.1\Array Rotatio.deps.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\bin\Debug\netcoreapp3.1\Array Rotatio.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\bin\Debug\netcoreapp3.1\Array Rotatio.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\bin\Debug\netcoreapp3.1\Array Rotatio.dll
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\bin\Debug\netcoreapp3.1\Array Rotatio.pdb
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\obj\Debug\netcoreapp3.1\Array Rotatio.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\obj\Debug\netcoreapp3.1\Array Rotatio.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\obj\Debug\netcoreapp3.1\Array Rotatio.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\obj\Debug\netcoreapp3.1\Array Rotatio.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\obj\Debug\netcoreapp3.1\Array Rotatio.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\obj\Debug\netcoreapp3.1\Array Rotatio.dll
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\obj\Debug\netcoreapp3.1\Array Rotatio.pdb
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Array Rotatio\obj\Debug\netcoreapp3.1\Array Rotatio.genruntimeconfig.cache
