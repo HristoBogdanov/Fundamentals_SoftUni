@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.exe
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.deps.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.dll
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\bin\Debug\netcoreapp3.1\Max Sequence.pdb
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.dll
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.pdb
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Max Sequence\obj\Debug\netcoreapp3.1\Max Sequence.genruntimeconfig.cache

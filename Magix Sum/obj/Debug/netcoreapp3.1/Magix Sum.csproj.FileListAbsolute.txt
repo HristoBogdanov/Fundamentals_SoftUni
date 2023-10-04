@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\bin\Debug\netcoreapp3.1\Magix Sum.exe
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\bin\Debug\netcoreapp3.1\Magix Sum.deps.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\bin\Debug\netcoreapp3.1\Magix Sum.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\bin\Debug\netcoreapp3.1\Magix Sum.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\bin\Debug\netcoreapp3.1\Magix Sum.dll
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\bin\Debug\netcoreapp3.1\Magix Sum.pdb
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\obj\Debug\netcoreapp3.1\Magix Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\obj\Debug\netcoreapp3.1\Magix Sum.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\obj\Debug\netcoreapp3.1\Magix Sum.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\obj\Debug\netcoreapp3.1\Magix Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\obj\Debug\netcoreapp3.1\Magix Sum.dll
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\obj\Debug\netcoreapp3.1\Magix Sum.pdb
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Magix Sum\obj\Debug\netcoreapp3.1\Magix Sum.genruntimeconfig.cache
