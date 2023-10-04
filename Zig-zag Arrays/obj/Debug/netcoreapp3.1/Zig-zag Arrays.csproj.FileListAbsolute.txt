@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\obj\Debug\netcoreapp3.1\Zig-zag Arrays.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\obj\Debug\netcoreapp3.1\Zig-zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\obj\Debug\netcoreapp3.1\Zig-zag Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\obj\Debug\netcoreapp3.1\Zig-zag Arrays.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\obj\Debug\netcoreapp3.1\Zig-zag Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\bin\Debug\netcoreapp3.1\Zig-zag Arrays.exe
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\bin\Debug\netcoreapp3.1\Zig-zag Arrays.deps.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\bin\Debug\netcoreapp3.1\Zig-zag Arrays.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\bin\Debug\netcoreapp3.1\Zig-zag Arrays.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\bin\Debug\netcoreapp3.1\Zig-zag Arrays.dll
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\bin\Debug\netcoreapp3.1\Zig-zag Arrays.pdb
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\obj\Debug\netcoreapp3.1\Zig-zag Arrays.dll
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\obj\Debug\netcoreapp3.1\Zig-zag Arrays.pdb
+D:\SoftUni\Fundamentals - C#\Arrays\Arrays-Exercise\Zig-zag Arrays\obj\Debug\netcoreapp3.1\Zig-zag Arrays.genruntimeconfig.cache
