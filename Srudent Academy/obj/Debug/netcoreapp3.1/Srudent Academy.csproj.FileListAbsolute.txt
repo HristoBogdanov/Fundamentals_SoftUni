@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\bin\Debug\netcoreapp3.1\Srudent Academy.exe
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\bin\Debug\netcoreapp3.1\Srudent Academy.deps.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\bin\Debug\netcoreapp3.1\Srudent Academy.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\bin\Debug\netcoreapp3.1\Srudent Academy.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\bin\Debug\netcoreapp3.1\Srudent Academy.dll
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\bin\Debug\netcoreapp3.1\Srudent Academy.pdb
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\obj\Debug\netcoreapp3.1\Srudent Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\obj\Debug\netcoreapp3.1\Srudent Academy.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\obj\Debug\netcoreapp3.1\Srudent Academy.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\obj\Debug\netcoreapp3.1\Srudent Academy.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\obj\Debug\netcoreapp3.1\Srudent Academy.dll
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\obj\Debug\netcoreapp3.1\Srudent Academy.pdb
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Srudent Academy\obj\Debug\netcoreapp3.1\Srudent Academy.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\bin\Debug\netcoreapp3.1\Orders.exe
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\bin\Debug\netcoreapp3.1\Orders.deps.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\bin\Debug\netcoreapp3.1\Orders.dll
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\bin\Debug\netcoreapp3.1\Orders.pdb
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\obj\Debug\netcoreapp3.1\Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\obj\Debug\netcoreapp3.1\Orders.dll
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\obj\Debug\netcoreapp3.1\Orders.pdb
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Orders\obj\Debug\netcoreapp3.1\Orders.genruntimeconfig.cache
