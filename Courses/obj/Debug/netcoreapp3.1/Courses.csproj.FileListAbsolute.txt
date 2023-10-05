@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\bin\Debug\netcoreapp3.1\Courses.exe
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\bin\Debug\netcoreapp3.1\Courses.deps.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\bin\Debug\netcoreapp3.1\Courses.dll
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\bin\Debug\netcoreapp3.1\Courses.pdb
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\obj\Debug\netcoreapp3.1\Courses.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\obj\Debug\netcoreapp3.1\Courses.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\obj\Debug\netcoreapp3.1\Courses.dll
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\obj\Debug\netcoreapp3.1\Courses.pdb
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Courses\obj\Debug\netcoreapp3.1\Courses.genruntimeconfig.cache

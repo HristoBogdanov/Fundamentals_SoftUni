@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.exe
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.deps.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.dll
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.pdb
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.dll
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.pdb
+D:\SoftUni\Fundamentals - C#\Associative Arrays\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.genruntimeconfig.cache
