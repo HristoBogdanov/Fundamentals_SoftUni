@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.exe
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.deps.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.dll
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.1\Sum Digits.pdb
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.dll
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.pdb
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.1\Sum Digits.genruntimeconfig.cache

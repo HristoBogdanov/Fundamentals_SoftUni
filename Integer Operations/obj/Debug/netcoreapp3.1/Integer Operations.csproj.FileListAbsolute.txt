@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.exe
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.deps.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.dll
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.pdb
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.dll
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.pdb
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.genruntimeconfig.cache

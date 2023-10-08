@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\bin\Debug\netcoreapp3.1\Latin Triples.exe
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\bin\Debug\netcoreapp3.1\Latin Triples.deps.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\bin\Debug\netcoreapp3.1\Latin Triples.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\bin\Debug\netcoreapp3.1\Latin Triples.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\bin\Debug\netcoreapp3.1\Latin Triples.dll
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\bin\Debug\netcoreapp3.1\Latin Triples.pdb
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\obj\Debug\netcoreapp3.1\Latin Triples.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\obj\Debug\netcoreapp3.1\Latin Triples.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\obj\Debug\netcoreapp3.1\Latin Triples.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\obj\Debug\netcoreapp3.1\Latin Triples.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\obj\Debug\netcoreapp3.1\Latin Triples.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\obj\Debug\netcoreapp3.1\Latin Triples.dll
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\obj\Debug\netcoreapp3.1\Latin Triples.pdb
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Latin Triples\obj\Debug\netcoreapp3.1\Latin Triples.genruntimeconfig.cache
