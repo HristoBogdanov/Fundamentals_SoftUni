@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\bin\Debug\netcoreapp3.1\Ascii Table.exe
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\bin\Debug\netcoreapp3.1\Ascii Table.deps.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\bin\Debug\netcoreapp3.1\Ascii Table.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\bin\Debug\netcoreapp3.1\Ascii Table.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\bin\Debug\netcoreapp3.1\Ascii Table.dll
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\bin\Debug\netcoreapp3.1\Ascii Table.pdb
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\obj\Debug\netcoreapp3.1\Ascii Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\obj\Debug\netcoreapp3.1\Ascii Table.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\obj\Debug\netcoreapp3.1\Ascii Table.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\obj\Debug\netcoreapp3.1\Ascii Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\obj\Debug\netcoreapp3.1\Ascii Table.dll
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\obj\Debug\netcoreapp3.1\Ascii Table.pdb
+D:\SoftUni\Fundamentals - C#\Data Types and Variables\Ascii Table\obj\Debug\netcoreapp3.1\Ascii Table.genruntimeconfig.cache
