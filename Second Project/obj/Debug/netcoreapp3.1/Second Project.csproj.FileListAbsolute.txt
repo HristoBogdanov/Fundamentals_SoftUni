@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\bin\Debug\netcoreapp3.1\Second Project.exe
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\bin\Debug\netcoreapp3.1\Second Project.deps.json
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\bin\Debug\netcoreapp3.1\Second Project.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\bin\Debug\netcoreapp3.1\Second Project.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\bin\Debug\netcoreapp3.1\Second Project.dll
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\bin\Debug\netcoreapp3.1\Second Project.pdb
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\obj\Debug\netcoreapp3.1\Second Project.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\obj\Debug\netcoreapp3.1\Second Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\obj\Debug\netcoreapp3.1\Second Project.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\obj\Debug\netcoreapp3.1\Second Project.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\obj\Debug\netcoreapp3.1\Second Project.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\obj\Debug\netcoreapp3.1\Second Project.dll
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\obj\Debug\netcoreapp3.1\Second Project.pdb
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Second Project\obj\Debug\netcoreapp3.1\Second Project.genruntimeconfig.cache

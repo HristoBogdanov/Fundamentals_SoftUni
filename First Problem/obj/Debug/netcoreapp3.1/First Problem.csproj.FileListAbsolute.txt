@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\bin\Debug\netcoreapp3.1\First Problem.exe
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\bin\Debug\netcoreapp3.1\First Problem.deps.json
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\bin\Debug\netcoreapp3.1\First Problem.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\bin\Debug\netcoreapp3.1\First Problem.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\bin\Debug\netcoreapp3.1\First Problem.dll
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\bin\Debug\netcoreapp3.1\First Problem.pdb
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\obj\Debug\netcoreapp3.1\First Problem.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\obj\Debug\netcoreapp3.1\First Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\obj\Debug\netcoreapp3.1\First Problem.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\obj\Debug\netcoreapp3.1\First Problem.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\obj\Debug\netcoreapp3.1\First Problem.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\obj\Debug\netcoreapp3.1\First Problem.dll
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\obj\Debug\netcoreapp3.1\First Problem.pdb
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\First Problem\obj\Debug\netcoreapp3.1\First Problem.genruntimeconfig.cache

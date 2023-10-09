@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\bin\Debug\netcoreapp3.1\Third Problem.exe
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\bin\Debug\netcoreapp3.1\Third Problem.deps.json
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\bin\Debug\netcoreapp3.1\Third Problem.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\bin\Debug\netcoreapp3.1\Third Problem.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\bin\Debug\netcoreapp3.1\Third Problem.dll
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\bin\Debug\netcoreapp3.1\Third Problem.pdb
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\obj\Debug\netcoreapp3.1\Third Problem.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\obj\Debug\netcoreapp3.1\Third Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\obj\Debug\netcoreapp3.1\Third Problem.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\obj\Debug\netcoreapp3.1\Third Problem.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\obj\Debug\netcoreapp3.1\Third Problem.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\obj\Debug\netcoreapp3.1\Third Problem.dll
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\obj\Debug\netcoreapp3.1\Third Problem.pdb
+D:\SoftUni\Fundamentals - C#\Final Exam\Final Exam\Third Problem\obj\Debug\netcoreapp3.1\Third Problem.genruntimeconfig.cache
