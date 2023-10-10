@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\bin\Debug\netcoreapp3.1\Login.exe
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\bin\Debug\netcoreapp3.1\Login.dll
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\bin\Debug\netcoreapp3.1\Login.pdb
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\obj\Debug\netcoreapp3.1\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\obj\Debug\netcoreapp3.1\Login.dll
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\obj\Debug\netcoreapp3.1\Login.pdb
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache

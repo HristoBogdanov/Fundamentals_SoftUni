@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\bin\Debug\netcoreapp3.1\Ages.exe
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\bin\Debug\netcoreapp3.1\Ages.deps.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\bin\Debug\netcoreapp3.1\Ages.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\bin\Debug\netcoreapp3.1\Ages.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\bin\Debug\netcoreapp3.1\Ages.dll
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\bin\Debug\netcoreapp3.1\Ages.pdb
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\obj\Debug\netcoreapp3.1\Ages.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\obj\Debug\netcoreapp3.1\Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\obj\Debug\netcoreapp3.1\Ages.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\obj\Debug\netcoreapp3.1\Ages.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\obj\Debug\netcoreapp3.1\Ages.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\obj\Debug\netcoreapp3.1\Ages.dll
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\obj\Debug\netcoreapp3.1\Ages.pdb
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Ages\obj\Debug\netcoreapp3.1\Ages.genruntimeconfig.cache

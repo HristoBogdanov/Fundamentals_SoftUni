@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\bin\Debug\netcoreapp3.1\Print_and_Sum.exe
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\bin\Debug\netcoreapp3.1\Print_and_Sum.deps.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\bin\Debug\netcoreapp3.1\Print_and_Sum.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\bin\Debug\netcoreapp3.1\Print_and_Sum.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\bin\Debug\netcoreapp3.1\Print_and_Sum.dll
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\bin\Debug\netcoreapp3.1\Print_and_Sum.pdb
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\obj\Debug\netcoreapp3.1\Print_and_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\obj\Debug\netcoreapp3.1\Print_and_Sum.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\obj\Debug\netcoreapp3.1\Print_and_Sum.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\obj\Debug\netcoreapp3.1\Print_and_Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\obj\Debug\netcoreapp3.1\Print_and_Sum.dll
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\obj\Debug\netcoreapp3.1\Print_and_Sum.pdb
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Print_and_Sum\obj\Debug\netcoreapp3.1\Print_and_Sum.genruntimeconfig.cache
