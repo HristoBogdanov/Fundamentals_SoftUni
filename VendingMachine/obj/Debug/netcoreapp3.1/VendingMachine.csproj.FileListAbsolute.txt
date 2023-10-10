@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache

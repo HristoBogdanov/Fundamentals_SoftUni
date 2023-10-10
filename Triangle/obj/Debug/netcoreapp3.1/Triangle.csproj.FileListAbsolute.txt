@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\bin\Debug\netcoreapp3.1\Triangle.exe
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\bin\Debug\netcoreapp3.1\Triangle.deps.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\bin\Debug\netcoreapp3.1\Triangle.dll
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\bin\Debug\netcoreapp3.1\Triangle.pdb
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\obj\Debug\netcoreapp3.1\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\obj\Debug\netcoreapp3.1\Triangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\obj\Debug\netcoreapp3.1\Triangle.dll
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\obj\Debug\netcoreapp3.1\Triangle.pdb
+D:\SoftUni\Fundamentals - C#\Intro and basic syntax\Triangle\obj\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache
