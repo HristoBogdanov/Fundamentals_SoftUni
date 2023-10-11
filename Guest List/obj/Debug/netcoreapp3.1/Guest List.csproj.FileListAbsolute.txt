@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\bin\Debug\netcoreapp3.1\Guest List.exe
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\bin\Debug\netcoreapp3.1\Guest List.deps.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\bin\Debug\netcoreapp3.1\Guest List.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\bin\Debug\netcoreapp3.1\Guest List.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\bin\Debug\netcoreapp3.1\Guest List.dll
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\bin\Debug\netcoreapp3.1\Guest List.pdb
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\obj\Debug\netcoreapp3.1\Guest List.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\obj\Debug\netcoreapp3.1\Guest List.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\obj\Debug\netcoreapp3.1\Guest List.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\obj\Debug\netcoreapp3.1\Guest List.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\obj\Debug\netcoreapp3.1\Guest List.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\obj\Debug\netcoreapp3.1\Guest List.dll
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\obj\Debug\netcoreapp3.1\Guest List.pdb
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Guest List\obj\Debug\netcoreapp3.1\Guest List.genruntimeconfig.cache

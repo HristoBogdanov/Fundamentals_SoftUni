@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vdCIUNSbGJvim5cIFDfT2X1kucuL2ORtTOYdssihypcnxvI1rXlfL/N+GZbM0C0RRx0+a7hiShTPPCBU4v3gAQ==",
+  "dgSpecHash": "6+unudPG6n8RYsJMDQD56hOvJCk22tW7AX0TFBDjeLng4fBqCEg57JyMt0ENccqbHSXfThTbU4sxC1CHIeYeKw==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\Fundamentals - C#\\Arrays\\Arrays-Exercise\\Train\\Train.csproj",
+  "projectFilePath": "D:\\SoftUni\\Fundamentals - C#\\Lists\\Lists\\Train\\Train.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

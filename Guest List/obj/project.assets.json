@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Fundamentals - C#\\Lists\\Lists\\Train\\Train.csproj",
-      "projectName": "Train",
-      "projectPath": "D:\\SoftUni\\Fundamentals - C#\\Lists\\Lists\\Train\\Train.csproj",
+      "projectUniqueName": "D:\\SoftUni\\Fundamentals - C#\\Lists\\Lists\\Guest List\\Guest List.csproj",
+      "projectName": "Guest List",
+      "projectPath": "D:\\SoftUni\\Fundamentals - C#\\Lists\\Lists\\Guest List\\Guest List.csproj",
       "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Fundamentals - C#\\Lists\\Lists\\Train\\obj\\",
+      "outputPath": "D:\\SoftUni\\Fundamentals - C#\\Lists\\Lists\\Guest List\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hrist\\AppData\\Roaming\\NuGet\\NuGet.Config",
