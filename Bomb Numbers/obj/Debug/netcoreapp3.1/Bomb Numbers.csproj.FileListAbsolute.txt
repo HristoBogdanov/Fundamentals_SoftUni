@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.exe
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.deps.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.dll
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.pdb
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.dll
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.pdb
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.genruntimeconfig.cache
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.csproj.AssemblyReference.cache

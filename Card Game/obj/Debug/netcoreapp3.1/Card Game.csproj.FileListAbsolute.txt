@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\bin\Debug\netcoreapp3.1\Card Game.exe
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\bin\Debug\netcoreapp3.1\Card Game.deps.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\bin\Debug\netcoreapp3.1\Card Game.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\bin\Debug\netcoreapp3.1\Card Game.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\bin\Debug\netcoreapp3.1\Card Game.dll
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\bin\Debug\netcoreapp3.1\Card Game.pdb
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\obj\Debug\netcoreapp3.1\Card Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\obj\Debug\netcoreapp3.1\Card Game.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\obj\Debug\netcoreapp3.1\Card Game.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\obj\Debug\netcoreapp3.1\Card Game.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\obj\Debug\netcoreapp3.1\Card Game.dll
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\obj\Debug\netcoreapp3.1\Card Game.pdb
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Card Game\obj\Debug\netcoreapp3.1\Card Game.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.exe
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.deps.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.dll
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.pdb
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.dll
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.pdb
+D:\SoftUni\Fundamentals - C#\Lists\Lists\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.genruntimeconfig.cache
