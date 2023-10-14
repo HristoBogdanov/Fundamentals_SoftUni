@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\bin\Debug\netcoreapp3.1\MxM Matrix.exe
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\bin\Debug\netcoreapp3.1\MxM Matrix.deps.json
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\bin\Debug\netcoreapp3.1\MxM Matrix.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\bin\Debug\netcoreapp3.1\MxM Matrix.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\bin\Debug\netcoreapp3.1\MxM Matrix.dll
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\bin\Debug\netcoreapp3.1\MxM Matrix.pdb
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\obj\Debug\netcoreapp3.1\MxM Matrix.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\obj\Debug\netcoreapp3.1\MxM Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\obj\Debug\netcoreapp3.1\MxM Matrix.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\obj\Debug\netcoreapp3.1\MxM Matrix.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\obj\Debug\netcoreapp3.1\MxM Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\obj\Debug\netcoreapp3.1\MxM Matrix.dll
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\obj\Debug\netcoreapp3.1\MxM Matrix.pdb
+D:\SoftUni\Fundamentals - C#\Methods\MxM Matrix\obj\Debug\netcoreapp3.1\MxM Matrix.genruntimeconfig.cache

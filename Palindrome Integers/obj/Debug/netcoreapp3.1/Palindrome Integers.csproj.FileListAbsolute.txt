@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.exe
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.deps.json
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.dll
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.pdb
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.dll
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.pdb
+D:\SoftUni\Fundamentals - C#\Methods\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.genruntimeconfig.cache

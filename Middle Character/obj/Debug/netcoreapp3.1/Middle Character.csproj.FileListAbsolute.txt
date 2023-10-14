@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\bin\Debug\netcoreapp3.1\Middle Character.exe
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\bin\Debug\netcoreapp3.1\Middle Character.deps.json
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\bin\Debug\netcoreapp3.1\Middle Character.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\bin\Debug\netcoreapp3.1\Middle Character.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\bin\Debug\netcoreapp3.1\Middle Character.dll
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\bin\Debug\netcoreapp3.1\Middle Character.pdb
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\obj\Debug\netcoreapp3.1\Middle Character.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\obj\Debug\netcoreapp3.1\Middle Character.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\obj\Debug\netcoreapp3.1\Middle Character.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\obj\Debug\netcoreapp3.1\Middle Character.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\obj\Debug\netcoreapp3.1\Middle Character.dll
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\obj\Debug\netcoreapp3.1\Middle Character.pdb
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\obj\Debug\netcoreapp3.1\Middle Character.genruntimeconfig.cache
+D:\SoftUni\Fundamentals - C#\Methods\Middle Character\obj\Debug\netcoreapp3.1\Middle Character.csproj.AssemblyReference.cache
