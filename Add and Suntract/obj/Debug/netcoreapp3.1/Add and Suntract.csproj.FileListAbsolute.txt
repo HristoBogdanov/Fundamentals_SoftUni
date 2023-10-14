@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\bin\Debug\netcoreapp3.1\Add and Suntract.exe
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\bin\Debug\netcoreapp3.1\Add and Suntract.deps.json
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\bin\Debug\netcoreapp3.1\Add and Suntract.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\bin\Debug\netcoreapp3.1\Add and Suntract.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\bin\Debug\netcoreapp3.1\Add and Suntract.dll
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\bin\Debug\netcoreapp3.1\Add and Suntract.pdb
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\obj\Debug\netcoreapp3.1\Add and Suntract.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\obj\Debug\netcoreapp3.1\Add and Suntract.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\obj\Debug\netcoreapp3.1\Add and Suntract.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\obj\Debug\netcoreapp3.1\Add and Suntract.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\obj\Debug\netcoreapp3.1\Add and Suntract.dll
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\obj\Debug\netcoreapp3.1\Add and Suntract.pdb
+D:\SoftUni\Fundamentals - C#\Methods\Add and Suntract\obj\Debug\netcoreapp3.1\Add and Suntract.genruntimeconfig.cache
