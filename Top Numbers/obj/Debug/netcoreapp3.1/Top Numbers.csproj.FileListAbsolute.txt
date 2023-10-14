@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\bin\Debug\netcoreapp3.1\Top Numbers.exe
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\bin\Debug\netcoreapp3.1\Top Numbers.deps.json
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\bin\Debug\netcoreapp3.1\Top Numbers.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\bin\Debug\netcoreapp3.1\Top Numbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\bin\Debug\netcoreapp3.1\Top Numbers.dll
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\bin\Debug\netcoreapp3.1\Top Numbers.pdb
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\obj\Debug\netcoreapp3.1\Top Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\obj\Debug\netcoreapp3.1\Top Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\obj\Debug\netcoreapp3.1\Top Numbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\obj\Debug\netcoreapp3.1\Top Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\obj\Debug\netcoreapp3.1\Top Numbers.dll
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\obj\Debug\netcoreapp3.1\Top Numbers.pdb
+D:\SoftUni\Fundamentals - C#\Methods\Top Numbers\obj\Debug\netcoreapp3.1\Top Numbers.genruntimeconfig.cache
