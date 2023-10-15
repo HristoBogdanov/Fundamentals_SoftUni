@@ -1,0 +1,7 @@
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex3\bin\Debug\Ex3.exe.config
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex3\bin\Debug\Ex3.exe
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex3\bin\Debug\Ex3.pdb
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex3\obj\Debug\Ex3.exe
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex3\obj\Debug\Ex3.pdb

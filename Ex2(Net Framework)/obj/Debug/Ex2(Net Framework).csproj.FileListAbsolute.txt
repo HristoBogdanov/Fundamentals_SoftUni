@@ -1,0 +1,7 @@
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex2(Net Framework)\bin\Debug\Ex2(Net Framework).exe.config
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex2(Net Framework)\bin\Debug\Ex2(Net Framework).exe
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex2(Net Framework)\bin\Debug\Ex2(Net Framework).pdb
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex2(Net Framework)\obj\Debug\Ex2(Net Framework).csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex2(Net Framework)\obj\Debug\Ex2(Net Framework).csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex2(Net Framework)\obj\Debug\Ex2(Net Framework).exe
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam\Mid Exam\Ex2(Net Framework)\obj\Debug\Ex2(Net Framework).pdb
