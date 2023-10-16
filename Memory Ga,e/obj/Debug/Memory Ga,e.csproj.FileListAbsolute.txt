@@ -1,0 +1,7 @@
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam Preparation\Memory Ga,e\bin\Debug\Memory Ga,e.exe.config
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam Preparation\Memory Ga,e\bin\Debug\Memory Ga,e.exe
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam Preparation\Memory Ga,e\bin\Debug\Memory Ga,e.pdb
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam Preparation\Memory Ga,e\obj\Debug\Memory Ga,e.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam Preparation\Memory Ga,e\obj\Debug\Memory Ga,e.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam Preparation\Memory Ga,e\obj\Debug\Memory Ga,e.exe
+D:\SoftUni\Fundamentals - C#\Mid Exam\Mid Exam Preparation\Memory Ga,e\obj\Debug\Memory Ga,e.pdb
