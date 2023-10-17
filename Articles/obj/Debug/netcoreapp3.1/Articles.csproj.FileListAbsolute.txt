@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.pdb
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.exe
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.deps.json
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.dll
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\bin\Debug\netcoreapp3.1\Advertisement Message.pdb
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.dll
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.pdb
+D:\SoftUni\Fundamentals - C#\Objects and Classes\ObjectsAndClasses\Advertisement Message\obj\Debug\netcoreapp3.1\Advertisement Message.genruntimeconfig.cache
