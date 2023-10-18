@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\bin\Debug\netcoreapp3.1\Race.exe
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\bin\Debug\netcoreapp3.1\Race.deps.json
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\bin\Debug\netcoreapp3.1\Race.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\bin\Debug\netcoreapp3.1\Race.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\bin\Debug\netcoreapp3.1\Race.dll
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\bin\Debug\netcoreapp3.1\Race.pdb
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\obj\Debug\netcoreapp3.1\Race.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\obj\Debug\netcoreapp3.1\Race.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\obj\Debug\netcoreapp3.1\Race.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\obj\Debug\netcoreapp3.1\Race.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\obj\Debug\netcoreapp3.1\Race.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\obj\Debug\netcoreapp3.1\Race.dll
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\obj\Debug\netcoreapp3.1\Race.pdb
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Race\obj\Debug\netcoreapp3.1\Race.genruntimeconfig.cache

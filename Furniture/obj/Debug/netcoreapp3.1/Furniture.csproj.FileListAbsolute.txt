@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.exe
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.deps.json
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.dll
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.pdb
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.dll
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.pdb
+D:\SoftUni\Fundamentals - C#\Regular Expressions\Regular Expressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.genruntimeconfig.cache
