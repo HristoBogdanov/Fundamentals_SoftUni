@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\bin\Debug\netcoreapp3.1\Repeating Chars.exe
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\bin\Debug\netcoreapp3.1\Repeating Chars.deps.json
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\bin\Debug\netcoreapp3.1\Repeating Chars.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\bin\Debug\netcoreapp3.1\Repeating Chars.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\bin\Debug\netcoreapp3.1\Repeating Chars.dll
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\bin\Debug\netcoreapp3.1\Repeating Chars.pdb
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\obj\Debug\netcoreapp3.1\Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\obj\Debug\netcoreapp3.1\Repeating Chars.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\obj\Debug\netcoreapp3.1\Repeating Chars.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\obj\Debug\netcoreapp3.1\Repeating Chars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\obj\Debug\netcoreapp3.1\Repeating Chars.dll
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\obj\Debug\netcoreapp3.1\Repeating Chars.pdb
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\obj\Debug\netcoreapp3.1\Repeating Chars.genruntimeconfig.cache
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Repeating Chars\obj\Debug\netcoreapp3.1\Repeating Chars.csproj.AssemblyReference.cache
