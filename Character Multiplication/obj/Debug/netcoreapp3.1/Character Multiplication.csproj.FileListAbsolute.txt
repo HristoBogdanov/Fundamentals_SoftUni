@@ -1,0 +1,13 @@
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\bin\Debug\netcoreapp3.1\Character Multiplication.exe
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\bin\Debug\netcoreapp3.1\Character Multiplication.deps.json
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\bin\Debug\netcoreapp3.1\Character Multiplication.runtimeconfig.json
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\bin\Debug\netcoreapp3.1\Character Multiplication.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\bin\Debug\netcoreapp3.1\Character Multiplication.dll
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\bin\Debug\netcoreapp3.1\Character Multiplication.pdb
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\obj\Debug\netcoreapp3.1\Character Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\obj\Debug\netcoreapp3.1\Character Multiplication.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\obj\Debug\netcoreapp3.1\Character Multiplication.AssemblyInfo.cs
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\obj\Debug\netcoreapp3.1\Character Multiplication.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\obj\Debug\netcoreapp3.1\Character Multiplication.dll
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\obj\Debug\netcoreapp3.1\Character Multiplication.pdb
+D:\SoftUni\Fundamentals - C#\Text Processing\Text Processing\Character Multiplication\obj\Debug\netcoreapp3.1\Character Multiplication.genruntimeconfig.cache
